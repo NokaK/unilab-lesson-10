@@ -86,11 +86,6 @@ input::-webkit-inner-spin-button {
 input[type=number] {
     -moz-appearance:textfield; /* Firefox */
 }
-textarea{
-    resize: none;
-    width:  300px;
-    height: 300px;
-}
 @media (max-width: 1024px){
     .box {
         width: 350px;
